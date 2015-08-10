@@ -1,0 +1,6 @@
+D:\code\monotorrent\build\Samples\Debug\SampleClient.exe.config
+D:\code\monotorrent\build\Samples\Debug\SampleClient.exe
+D:\code\monotorrent\build\Samples\Debug\SampleClient.pdb
+D:\code\monotorrent\src\SampleClient\obj\Debug\SampleClient.csprojResolveAssemblyReference.cache
+D:\code\monotorrent\src\SampleClient\obj\Debug\SampleClient.exe
+D:\code\monotorrent\src\SampleClient\obj\Debug\SampleClient.pdb

@@ -1,0 +1,6 @@
+D:\code\monotorrent\build\Tracker\Debug\TrackerApp.exe.config
+D:\code\monotorrent\build\Tracker\Debug\TrackerApp.exe
+D:\code\monotorrent\build\Tracker\Debug\TrackerApp.pdb
+D:\code\monotorrent\src\TrackerApp\obj\Debug\TrackerApp.csprojResolveAssemblyReference.cache
+D:\code\monotorrent\src\TrackerApp\obj\Debug\TrackerApp.exe
+D:\code\monotorrent\src\TrackerApp\obj\Debug\TrackerApp.pdb
