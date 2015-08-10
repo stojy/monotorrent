@@ -1,1 +1,5 @@
 D:\code\monotorrent\src\MonoTorrent.Tests\obj\Debug\MonoTorrent.Tests.csprojResolveAssemblyReference.cache
+D:\code\monotorrent\build\Tests\Debug\MonoTorrent.Tests.dll
+D:\code\monotorrent\build\Tests\Debug\MonoTorrent.Tests.pdb
+D:\code\monotorrent\src\MonoTorrent.Tests\obj\Debug\MonoTorrent.Tests.dll
+D:\code\monotorrent\src\MonoTorrent.Tests\obj\Debug\MonoTorrent.Tests.pdb
