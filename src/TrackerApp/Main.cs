@@ -100,7 +100,7 @@ namespace SampleTracker
         ///<summary>Start the Tracker. Start Watching the TORRENT_DIR Directory for new Torrents.</summary>
         public MySimpleTracker()
         {
-            System.Net.IPEndPoint listenpoint = new System.Net.IPEndPoint(System.Net.IPAddress.Loopback, 10000);
+            System.Net.IPEndPoint listenpoint = new System.Net.IPEndPoint(System.Net.IPAddress.Loopback, 10001);
             Console.WriteLine("Listening at: {0}", listenpoint);
             ListenerBase listener = new HttpListener(listenpoint);
             tracker = new Tracker();

@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=E506EAB938C9D14F88A646411EEAF2FC/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=E506EAB938C9D14F88A646411EEAF2FC/Type/@EntryValue">project</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=E506EAB938C9D14F88A646411EEAF2FC/Name/@EntryValue">SampleClient</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=E506EAB938C9D14F88A646411EEAF2FC/ProjectGuid/@EntryValue">3ACCC29C41405748AF8BD58745FD3066</s:String>
+	<s:String x:Key="/Default/RunConfigs/Active/@EntryValue">FC1F4F8F309B784FAF244097B28D1524</s:String>
+	<s:Boolean x:Key="/Default/RunConfigs/Config/=FC1F4F8F309B784FAF244097B28D1524/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/RunConfigs/Config/=FC1F4F8F309B784FAF244097B28D1524/Name/@EntryValue">TrackerApp</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=FC1F4F8F309B784FAF244097B28D1524/ProjectGuid/@EntryValue">5275647AF0B59F4193954DC24990ED20</s:String>
+	<s:String x:Key="/Default/RunConfigs/Config/=FC1F4F8F309B784FAF244097B28D1524/Type/@EntryValue">project</s:String></wpf:ResourceDictionary>
